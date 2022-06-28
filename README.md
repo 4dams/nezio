@@ -1,8 +1,8 @@
-<div align="center">
-  <h1>NEZIO</h1>
-  <p>`nezio` is a web client for the well known calorie and nutrition tracking app YAZIO.</p>
-  <p>Made by <a href="https://github.com/4dams">@4dams – Juri Adams</a></p>
-</div>
+# NEZIO
+
+**`nezio`** is a web client for the well known calorie and nutrition tracking app [**YAZIO**](https://www.yazio.com/en).
+
+Made and maintained with 💚 by [@4dams – Juri Adams](https://github.com/4dams)
 
 ## Preview
 
